@@ -10,10 +10,11 @@
 #define BIT_MAX 400
 #define BIT_READ 192
 
-#define SENSOR_PIN 2 
-//#define SENSOR_PIN PA0
+//#define SENSOR_PIN 2 
+#define SENSOR_PIN PA0
 
-#define OUTPUT_PIN 3
+//#define OUTPUT_PIN 3
+#define OUTPUT_PIN PA1
  
 unsigned long time;
 
