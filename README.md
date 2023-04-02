@@ -7,12 +7,18 @@ In development by: Francisval Guedes Soares
 ## the low cost parking sensor system:
 
 <figure>
-<center><img src="./figures/sensor_sistem.jpg" width="800"></center>
-<figcaption align = "center"><b>Fig.1 - Marketing</b></figcaption>
+<center><img src="./figures/sensor_sistem.jpeg" width="800"></center>
+<figcaption align = "center"><b>Fig.1 - Sensor sistem</b></figcaption>
 </figure>
 
-![sensor sistem](https://user-images.githubusercontent.com/104702301/229376896-3f5148cc-c50e-451c-bb19-223d6cd35f86.jpeg)
+<figure>
+<center><img src="./figures/pcb.jpeg" width="800"></center>
+<figcaption align = "center"><b>Fig.2 - PCB</b></figcaption>
+</figure>
 
-![pcb](https://user-images.githubusercontent.com/104702301/229376903-b56f509b-b17e-4ae0-8848-f18fa1444a7a.jpeg)
+<figure>
+<center><img src="./figures/Protocol.jpg.jpg" width="800"></center>
+<figcaption align = "center"><b>Fig.3 - Protocol</b></figcaption>
+</figure>
 
-![Protocol](https://user-images.githubusercontent.com/104702301/229377140-5eb4e0a3-07d6-402b-a83d-57082d1a3196.jpg)
+
