@@ -45,6 +45,13 @@ void setup(void) {
 }
  
 void loop(void) {
+  // User fast code
+  // *************************************************
+
+
+
+  // *************************************************
+  
   // pulseValue = pulseIn(SENSOR_PIN, HIGH );
   // Serial.println(pulseValue); 
   // newPulseDurationAvailable = false;
