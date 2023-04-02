@@ -45,18 +45,19 @@ void setup(void) {
 }
  
 void loop(void) {
+  if (cont==0){
   // User fast code
   // *************************************************
 
 
 
   // *************************************************
-  
+  }
   // pulseValue = pulseIn(SENSOR_PIN, HIGH );
   // Serial.println(pulseValue); 
   // newPulseDurationAvailable = false;
 
-  // message frequency ~ 38 ms, mensage length: read ~6ms, write ~6ms, free ~ 25ms
+  // message frequency ~ 38 ms, mensage length 13ms: read ~6.5ms, write ~6.5ms, free ~ 25ms
   if (newPulseDurationAvailable) {
     newPulseDurationAvailable = false;
     pulseValue = pulseInTimeEnd - pulseInTimeBegin;
