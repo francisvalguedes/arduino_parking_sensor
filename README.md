@@ -17,7 +17,7 @@ In development by: Francisval Guedes Soares
 </figure>
 
 <figure>
-<center><img src="./figures/Protocol.jpg.jpg" width="800"></center>
+<center><img src="./figures/Protocol.jpg" width="800"></center>
 <figcaption align = "center"><b>Fig.3 - Protocol</b></figcaption>
 </figure>
 
