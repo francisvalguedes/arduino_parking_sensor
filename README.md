@@ -28,7 +28,7 @@ Start bit length ~ 978us, low length ~ 112 us, clock length ~ 77us, bit length ~
 
 Bit   | value
 --------- | ------
-0 - 4 | n
+0 - 4 | unknown
 5 | presence of an obstacle
 6 - 7 | sensor number
 8 - 16 | sensor data
